@@ -1,6 +1,21 @@
 h4 {
     color: blue;
 }
-img.estudent{
-    margin: 10px;
+td.nav{
+    border: 1px solid;
+    text-align: center;
+    background-color: cornsilk;
+    border-color: rgb(59, 208, 235);
+}
+img.logo{
+    float: left;
+}
+img.caja{
+    float: right;
+}
+img.student{
+    text-align: center;
+}
+footer{
+    background-color: rgb(153, 238, 238);
 }
